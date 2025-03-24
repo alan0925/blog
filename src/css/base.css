@@ -1,0 +1,15 @@
+@font-face {
+  font-family: mFont;
+  src: url('@/assets/font/tingshuoxiangweiyinghuashengkai.ttf');
+}
+
+*{
+  font-family: mFont;
+  font-size: 30px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  background-color: #fff;
+}

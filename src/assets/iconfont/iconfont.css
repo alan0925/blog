@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4865265 */
+  src: url('iconfont.woff2?t=1742582038959') format('woff2'),
+       url('iconfont.woff?t=1742582038959') format('woff'),
+       url('iconfont.ttf?t=1742582038959') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-24gl-circle:before {
+  content: "\ea97";
+}
+
+.icon-yunduo1:before {
+  content: "\e86f";
+}
+
+.icon-yunduo2:before {
+  content: "\e870";
+}
+
+.icon-yunduo3:before {
+  content: "\e871";
+}
+
+.icon-yuan:before {
+  content: "\e657";
+}
+
+.icon-big-circle:before {
+  content: "\e612";
+}
+
+.icon-gufengxiangyunyunduo6:before {
+  content: "\e74d";
+}
+
+.icon-zantinganniu:before {
+  content: "\e61b";
+}
+
+.icon-bofanganniuxhdpi:before {
+  content: "\e61c";
+}
+
+.icon-a-shuangweianniukongzhideanruzhuangtai:before {
+  content: "\e6e1";
+}
+
+.icon-tuichu:before {
+  content: "\e622";
+}
+
+.icon-jiaoshuifei:before {
+  content: "\e600";
+}
+
+.icon-liquidityProviding:before {
+  content: "\e693";
+}
+
+.icon-JFrog:before {
+  content: "\e700";
+}
+
