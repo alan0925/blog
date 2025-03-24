@@ -5,6 +5,7 @@ import Board from '@/views/Message.vue'
 import Login from '@/views/Login.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
+  base: '/',
   routes: [
     {
       path:'/',
